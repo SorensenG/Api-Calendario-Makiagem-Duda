@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Removendo as propriedades ###
+src/main/resources/application-*.properties
