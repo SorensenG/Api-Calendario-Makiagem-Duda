@@ -1,4 +1,4 @@
-package com.duda.make.service;
+package com.duda.make.services;
 
 import com.duda.make.dto.UserRegisterDTO;
 import com.duda.make.entity.User;
